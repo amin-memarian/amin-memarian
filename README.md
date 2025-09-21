@@ -67,6 +67,6 @@ A startup focused on the buying and selling of beehives, as well as the collecti
 ### 6. Persian cargo
 A website designed to streamline logistics processes.
 
-
+![Persian Cargo Screenshot](screenshots/persian_cargo.png)
 
 > "Programming is not just a skill—it's a way of thinking, solving problems, and bringing ideas to life."  
