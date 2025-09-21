@@ -5,13 +5,6 @@ Hi, I'm **Amin Memarian**
 Below you'll find the tech stacks I work with, and in the repositories section,  
 you can check out some of my personal projects.
 
-> "Life is like coding, a journey through trial and error. 
-> with every step, we grow, make fewer mistakes, and become better than before, 
-> until we reach a stable version of who we are —forever."
-> <sub>— *Amin Memarian*</sub>
-
-
-
 ## 🧰 Stacks
 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
