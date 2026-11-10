@@ -11,8 +11,6 @@ you can check out some of my personal projects.
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![Axios](https://img.shields.io/badge/Axios-5A29E6?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
-[![Filament](https://img.shields.io/badge/Filament-181818?style=for-the-badge&logo=filament&logoColor=white)](https://filamentphp.com/)
-[![DataTables](https://img.shields.io/badge/DataTables-1A2B34?style=for-the-badge&logo=datatable&logoColor=white)](https://datatables.net/)
 
 
 ## 🌐 Socials
