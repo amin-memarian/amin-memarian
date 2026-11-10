@@ -10,7 +10,7 @@ you can check out some of my personal projects.
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![Axios](https://img.shields.io/badge/Axios-5A29E6?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
-
+[![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)](https://livewire.laravel.com)
 
 ## 🌐 Socials
 
