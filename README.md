@@ -1,6 +1,5 @@
 
-Hi, I'm **Amin Memarian**  
-— a developer who enjoys learning, problem-solving, and writing clean code.  
+Hi, I'm **Amin Memarian**,   
 
 Below you'll find the tech stacks I work with, and in the repositories section,  
 you can check out some of my personal projects.
