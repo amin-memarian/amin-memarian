@@ -1,59 +1,62 @@
 
-Welcome to my GitHub!
+# Welcome to my GitHub!
 
 PHP & Laravel Backend Developer focused on clean code, software architecture, and building maintainable web applications.
 
-## Stacks
+## Tech Stack
 
+**Backend & Frameworks**
+
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)](https://livewire.laravel.com)
+
+**Frontend & Libraries**
+
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![Axios](https://img.shields.io/badge/Axios-5A29E6?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
-[![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)](https://livewire.laravel.com)
-
-## Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-memarian-9b56592b9)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amin_memarian)
 
 ## Projects
 
 ### 1. Halal Book (Ketabkhan)
-An audiobook and text-based platform.
+
+An audiobook and digital book platform.
 
 ![Halal Book Screenshot](screenshots/ketabkhan.png)
 
----
+### 2. BitAazar
 
-### 2. Bitazar
-An online cryptocurrency exchange.
+An online cryptocurrency exchange platform.
 
-![Bitazar Screenshot](screenshots/bitazar.png)
-
----
+![BitAazar Screenshot](screenshots/bitazar.png)
 
 ### 3. BidariyMelat
-A news website that also covers political news, and I was only involved as a developer.
+
+A news platform featuring general and political news. Contributed to the project as a developer.
 
 ![BidariyMelat Screenshot](screenshots/bidariymelatt.png)
 
----
-
 ### 4. Cargoware
-A website designed to streamline logistics processes.
+
+A web-based platform designed to streamline logistics operations and shipment management.
 
 ![Cargoware Screenshot](screenshots/cargoware.png)
 
----
+### 5. Kandoban (Kandok)
 
-### 5. Kandoban (kandok)
-A startup focused on the buying and selling of beehives, as well as the collection of royal jelly, bee pollen, and propolis.
+A startup platform focused on beehive trading and the collection of bee products, including royal jelly, bee pollen, and propolis.
 
 ![Kandoban Screenshot](screenshots/kandoban.png)
 
----
+### 6. Persian Cargo
 
-### 6. Persian cargo
-A website designed to streamline logistics processes.
+A web-based platform for managing logistics and cargo operations.
 
 ![Persian Cargo Screenshot](screenshots/persian_cargo.png)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AminMemarianCode)
+[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AminMemarianDev)
