@@ -1,8 +1,7 @@
 
-Hi, I'm **Amin Memarian**,   
+Welcome to my GitHub!
 
-Below you'll find the tech stacks I work with, and in the repositories section,  
-you can check out some of my personal projects.
+PHP & Laravel Backend Developer focused on clean code, software architecture, and building maintainable web applications.
 
 ## 🧰 Stacks
 
