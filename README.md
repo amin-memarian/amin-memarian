@@ -3,7 +3,7 @@ Welcome to my GitHub!
 
 PHP & Laravel Backend Developer focused on clean code, software architecture, and building maintainable web applications.
 
-## 🧰 Stacks
+## Stacks
 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com)
@@ -11,12 +11,12 @@ PHP & Laravel Backend Developer focused on clean code, software architecture, an
 [![Axios](https://img.shields.io/badge/Axios-5A29E6?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
 [![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)](https://livewire.laravel.com)
 
-## 🌐 Socials
+## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-memarian-9b56592b9)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amin_memarian)
 
-## 📝 My Projects
+## Projects
 
 ### 1. Halal Book (Ketabkhan)
 An audiobook and text-based platform.
