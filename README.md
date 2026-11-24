@@ -1,35 +1,35 @@
 # Hi, I'm Amin 👋
 
-**PHP & Laravel Backend Developer**
+**PHP & Laravel Backend Developer | 5+ Years of Experience**
 
-I build web applications with PHP and Laravel, focusing on clean code, maintainable architecture, and reliable backend solutions.
+I develop web applications using PHP and Laravel, with a focus on clean code, well-structured architecture, and practical, maintainable solutions.
 
-### Tech Stack
+### Technical Skills
 
 - **Languages:** PHP, JavaScript
-- **Backend:** Laravel, RESTful APIs
-- **Database:** MySQL, Redis, MongoDB
-- **Tools & Libraries:** Git, jQuery, Axios, Bootstrap, Livewire
+- **Backend Development:** Laravel, RESTful APIs
+- **Databases:** MySQL, Redis, MongoDB
+- **Tools & Libraries:** Git, Livewire, jQuery, Axios, Bootstrap
 
-### Areas of Interest
+### Technical Focus
 
-- Software Architecture & Design Patterns
-- Clean Code & SOLID Principles
+- Clean Code, SOLID Principles & Design Patterns
+- Software Architecture & Modular Development
 - Database Design & Query Optimization
-- Building Maintainable and Scalable Applications
+- API Development & Third-party Integrations
 
-### Selected Projects
+### Projects
 
-- **Bit Azar** — A cryptocurrency exchange platform.
-- **Bidariy Melat** — A news platform covering general and political news.
-- **Cargoware** — A logistics and shipment management platform.
-- **Ketabkhan** — An audiobook and digital book platform.
-- **Kandoban** — A platform for trading beehives and bee products.
-- **Alin Safar** — ...
-- **Barman** — ...
-- **Khadem Rail** — ...
+- **Bit Azar** — Cryptocurrency exchange platform.
+- **Bidariy Melat** — News platform.
+- **Cargoware** — Logistics and shipment management platform.
+- **Ketabkhan** — Audiobook and digital book platform.
+- **Kandoban** — Beehive trading and bee products platform.
+- **Barman** — Multilingual content platform, developed across frontend and backend in collaboration with a graphic designer.
+- **Khadem Rail** — Multilingual railway-related content platform, developed across frontend and backend in collaboration with a graphic designer.
+- **Alin Safar** — Content management panel for publishing and managing articles.
 
-### Connect with Me
+### Connect
 
 - [LinkedIn](YOUR_LINKEDIN_URL)
 - [Telegram](https://t.me/AminMemarianCode)
