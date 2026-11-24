@@ -1,62 +1,36 @@
+# Hi, I'm Amin 👋
 
-# Welcome to my GitHub!
+**PHP & Laravel Backend Developer**
 
-PHP & Laravel Backend Developer focused on clean code, software architecture, and building maintainable web applications.
+I build web applications with PHP and Laravel, focusing on clean code, maintainable architecture, and reliable backend solutions.
 
-## Tech Stack
+### Tech Stack
 
-**Backend & Frameworks**
+- **Languages:** PHP, JavaScript
+- **Backend:** Laravel, RESTful APIs
+- **Database:** MySQL, Redis, MongoDB
+- **Tools & Libraries:** Git, jQuery, Axios, Bootstrap, Livewire
 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-[![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)](https://livewire.laravel.com)
+### Areas of Interest
 
-**Frontend & Libraries**
+- Software Architecture & Design Patterns
+- Clean Code & SOLID Principles
+- Database Design & Query Optimization
+- Building Maintainable and Scalable Applications
 
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-[![Axios](https://img.shields.io/badge/Axios-5A29E6?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
+### Selected Projects
 
-## Projects
+- **Bit Azar** — A cryptocurrency exchange platform.
+- **Bidariy Melat** — A news platform covering general and political news.
+- **Cargoware** — A logistics and shipment management platform.
+- **Ketabkhan** — An audiobook and digital book platform.
+- **Kandoban** — A platform for trading beehives and bee products.
+- **Alin Safar** — ...
+- **Barman** — ...
+- **Khadem Rail** — ...
 
-### 1. Halal Book (Ketabkhan)
+### Connect with Me
 
-An audiobook and digital book platform.
-
-![Halal Book Screenshot](screenshots/ketabkhan.png)
-
-### 2. BitAazar
-
-An online cryptocurrency exchange platform.
-
-![BitAazar Screenshot](screenshots/bitazar.png)
-
-### 3. BidariyMelat
-
-A news platform featuring general and political news. Contributed to the project as a developer.
-
-![BidariyMelat Screenshot](screenshots/bidariymelatt.png)
-
-### 4. Cargoware
-
-A web-based platform designed to streamline logistics operations and shipment management.
-
-![Cargoware Screenshot](screenshots/cargoware.png)
-
-### 5. Kandoban (Kandok)
-
-A startup platform focused on beehive trading and the collection of bee products, including royal jelly, bee pollen, and propolis.
-
-![Kandoban Screenshot](screenshots/kandoban.png)
-
-### 6. Persian Cargo
-
-A web-based platform for managing logistics and cargo operations.
-
-![Persian Cargo Screenshot](screenshots/persian_cargo.png)
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AminMemarianCode)
-[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AminMemarianDev)
+- [LinkedIn](YOUR_LINKEDIN_URL)
+- [Telegram](https://t.me/AminMemarianCode)
+- [Technical Telegram Channel](https://t.me/AminMemarianDev)
